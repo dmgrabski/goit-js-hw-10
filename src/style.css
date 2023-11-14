@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .loader,
+  .error {
+    display: none;
+    color: red;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .cat-info img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  select.breed-select {
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
